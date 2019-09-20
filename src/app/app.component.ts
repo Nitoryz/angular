@@ -14,5 +14,5 @@ toggleNavbar() {
   this.navbarOpen = !this.navbarOpen;
 }
 }
-
+	
 
